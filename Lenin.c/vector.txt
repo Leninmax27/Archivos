@@ -1,4 +1,4 @@
-Es multiplo de 10
+0
 1
 2
 3
@@ -8,7 +8,7 @@ Es multiplo de 10
 7
 8
 9
-Es multiplo de 10
+10
 11
 12
 13
@@ -18,7 +18,7 @@ Es multiplo de 10
 17
 18
 19
-Es multiplo de 10
+20
 21
 22
 23
@@ -28,7 +28,7 @@ Es multiplo de 10
 27
 28
 29
-Es multiplo de 10
+30
 31
 32
 33
@@ -38,7 +38,7 @@ Es multiplo de 10
 37
 38
 39
-Es multiplo de 10
+40
 41
 42
 43
@@ -48,7 +48,7 @@ Es multiplo de 10
 47
 48
 49
-Es multiplo de 10
+50
 51
 52
 53
@@ -58,7 +58,7 @@ Es multiplo de 10
 57
 58
 59
-Es multiplo de 10
+60
 61
 62
 63
@@ -68,7 +68,7 @@ Es multiplo de 10
 67
 68
 69
-Es multiplo de 10
+70
 71
 72
 73
@@ -78,7 +78,7 @@ Es multiplo de 10
 77
 78
 79
-Es multiplo de 10
+80
 81
 82
 83
@@ -88,7 +88,7 @@ Es multiplo de 10
 87
 88
 89
-Es multiplo de 10
+90
 91
 92
 93
@@ -97,5 +97,4 @@ Es multiplo de 10
 96
 97
 98
-99
 99
